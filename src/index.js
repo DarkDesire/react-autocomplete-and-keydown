@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import SuggestionsApp from './SuggestionsApp';
+import KeyDownApp from './KeyDownApp';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <KeyDownApp />
   </React.StrictMode>,
   document.getElementById('root')
 );
