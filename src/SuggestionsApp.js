@@ -2,7 +2,6 @@ import './App.css';
 import './custom.css';
 import axios from 'axios';
 import { useEffect, useState } from 'react';
-import KeyDownFunctional from './KeyDownFunctional';
 
 function App() {
   const [users, setUsers] = useState([]);
