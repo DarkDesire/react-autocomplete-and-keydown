@@ -1,7 +1,7 @@
-# [Suggestions] Autocomplete search from remote api
+# [SuggestionsApp] Autocomplete search from remote api
 
 ![Suggestions](suggestions.gif)
 
-# [KeyDown] KeyDownFunctional
+# [KeyDownApp] KeyDownFunctional
 
 ![KeyDown](keydown.gif)
